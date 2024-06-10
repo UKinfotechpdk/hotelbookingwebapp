@@ -27,7 +27,7 @@ Installation
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/hotel-booking-web-app.git
+git clone https://github.com/UKinfotechpdk/hotel-booking-web-app.git
 
 Navigate to the project directory:
 cd hotel-booking-web-app
